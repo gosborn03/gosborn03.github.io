@@ -3,16 +3,17 @@
 
  
 </head>
-<body>
+<body bgcolor = "D3DDDE">
 
   <body>
 
+<h1 style="font-family:verdana;">This is a heading</h1>
 <h1>Our Products</h1>
 <i>Here is a list of some of our most popular products</i>
 
 <div class="product">
  <h2>Backhoe</h2>
-  <p>The Backhoe is a versatile piece of heavy machinery that is essential to almost any construction project. It could be building a house, a new road, or even a large-scale landscaping project. Entrust your digging, demolition, and lifting needs to our backhoe.</p>
+  <p style="font-family:Georgia">The Backhoe is a versatile piece of heavy machinery that is essential to almost any construction project. It could be building a house, a new road, or even a large-scale landscaping project. Entrust your digging, demolition, and lifting needs to our backhoe.</p>
   <img src = "https://tse4.mm.bing.net/th/id/OIP.9SquXaz-M2MsaTeBjZlPOQHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width = "200">
   <br>
   <b>Click below to view a user's manual</b>
@@ -41,7 +42,7 @@
 </div>
 <br>
 
-<u>Other products offered not featured:</u>
+<font color="#990000">Other products offered not featured:</font>
 
 <ul type="square">
  <li>Cranes</li>
@@ -49,7 +50,7 @@
  <li>Pavers</li>
 </ul>
 
-<font color="#990000">Interested in our products? Follow these steps!</font>
+<font color="990000">Interested in our products? Follow these steps!</font>
 <br>
 <ol type="1">
  <li>Choose products you are interested in</li>
