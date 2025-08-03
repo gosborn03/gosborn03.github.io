@@ -2,7 +2,7 @@
 <head>
  <style>
    .product {
-     background-color: light gray;
+     background-color: "d3d3d3";
      border: 2px solid red;
      padding: 15px;
      margin: 15px 0;
@@ -25,7 +25,7 @@
   <b>Click below to view a user's manual</b>
   <br>
   <a href="https://www.manualslib.com/manual/395110/Komatsu-Pc600lc-8-Backhoe.html">BackhoeManual</a>
-
+</div>
 
 <div class="product">
   <h2 style="font-family:elephant;">Excavator</h2>
