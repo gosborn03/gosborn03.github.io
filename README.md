@@ -2,11 +2,11 @@
 <head>
  <style>
   body {
-    background-color: #d3d3d3;
+    background-color: #ffffff;
    }
   
    .product {
-     background-color: white;
+     background-color: #d3d3d3;
      border: 2px solid red;
      padding: 15px;
      margin: 15px 0;
