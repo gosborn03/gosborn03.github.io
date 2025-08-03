@@ -48,7 +48,7 @@
 </div>
 <br>
 
-<font color="solid red">Other products offered not featured:</font>
+<font color="FF0000">Other products offered not featured:</font>
 
 <ul type="square">
  <li>Cranes</li>
@@ -56,7 +56,7 @@
  <li>Pavers</li>
 </ul>
 
-<font color="solid red">Interested in our products? Follow these steps!</font>
+<font color="FF0000">Interested in our products? Follow these steps!</font>
 <br>
 <ol type="1">
  <li>Choose products you are interested in</li>
