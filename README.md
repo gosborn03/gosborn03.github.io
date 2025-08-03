@@ -11,6 +11,13 @@
      padding: 15px;
      margin: 15px 0;
     }
+   .extra {
+     background-color: #d3d3d3;
+     border: 2px solid red;
+     padding: 15px;
+     margin: 15px 0;
+     font-family:georgia;
+    
 </style>
  
 </head>
@@ -49,7 +56,7 @@
   <a href="https://www.manualslib.com/manual/3073648/Case-Construction-450dx.html">CompactorManual</a>
 </div>
 
-<div class="product">
+<div class="extra">
 <font color="FF0000">Other products offered not featured:</font>
 
 <ul type="square">
