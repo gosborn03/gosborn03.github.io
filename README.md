@@ -48,6 +48,7 @@
 </div>
 <br>
 
+<div class="product">
 <font color="FF0000">Other products offered not featured:</font>
 
 <ul type="square">
@@ -63,6 +64,7 @@
  <li>Send us an email</li>
  <li>Wait for us to reach out about solutions</li>
 </ol>
+</div>
 
 <a href="mailto:gosborn1000@gmail.com"> Email us here!</a>
   
