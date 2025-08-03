@@ -1,6 +1,13 @@
 <html>
 <head>
-
+ <style>
+   .product {
+     background-color: gray;
+     border: 2px solid red;
+     padding: 15px;
+     margin: 15px 0;
+    }
+</style>
  
 </head>
 <body bgcolor = "D3DDDE">
@@ -42,7 +49,7 @@
 </div>
 <br>
 
-<font color="#990000">Other products offered not featured:</font>
+<font color="990000">Other products offered not featured:</font>
 
 <ul type="square">
  <li>Cranes</li>
