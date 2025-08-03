@@ -12,7 +12,7 @@
 </head>
 
 
-  <body bgcolor = "D3DDDE">
+  <body bgcolor = "gray">
 
 <h1 style="font-family:elephant;">Our Products</h1>
 <p style="font-family:georgia;"><i>Here is a list of some of our most popular products</i></p>
@@ -46,7 +46,6 @@
  <br>
   <a href="https://www.manualslib.com/manual/3073648/Case-Construction-450dx.html">CompactorManual</a>
 </div>
-<br>
 
 <div class="product">
 <font color="FF0000">Other products offered not featured:</font>
