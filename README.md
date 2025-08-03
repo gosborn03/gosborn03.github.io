@@ -14,7 +14,7 @@
 </style>
  
 </head>
-
+<body>
 
 <h1 style="font-family:elephant;">Our Products</h1>
 <p style="font-family:georgia;"><i>Here is a list of some of our most popular products</i></p>
