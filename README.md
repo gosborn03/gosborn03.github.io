@@ -2,7 +2,7 @@
 <head>
  <style>
    .product {
-     background-color: "d3d3d3";
+     background-color: white;
      border: 2px solid red;
      padding: 15px;
      margin: 15px 0;
@@ -12,10 +12,10 @@
 </head>
 
 
-  <body>
+  <body bgcolor = "D3DDDE">
 
 <h1 style="font-family:elephant;">Our Products</h1>
-<i>Here is a list of some of our most popular products</i>
+<p style="font-family:georgia;"><i>Here is a list of some of our most popular products</i></p>
 
 <div class="product">
  <h2 style="font-family:elephant;">Backhoe</h2>
