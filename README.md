@@ -68,6 +68,13 @@
 </div>
 
 <a href="mailto:gosborn1000@gmail.com"> Email us here!</a>
+<hr>
+  <p id="lastModified"></p>
+
+  <script>
+    document.getElementById("lastModified").textContent =
+      "Date last modified: " + document.lastModified;
+  </script>
   
 </body>
   
